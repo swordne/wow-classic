@@ -1,0 +1,10 @@
+lightweight tag 2bfd0fe3a294185c15ff13c75aa6b1fd4ba4a266 v1.1.0
+Author:	Linden Ryuujin <Linden.Ryuujin@gmail.com>
+Date:	Tue Sep 10 17:48:10 2019 +0100
+
+commit 2bfd0fe3a294185c15ff13c75aa6b1fd4ba4a266
+Author: Linden Ryuujin <Linden.Ryuujin@gmail.com>
+Date:   Tue Sep 10 17:48:10 2019 +0100
+
+    Convert to spell IDs for multi language support.
+
